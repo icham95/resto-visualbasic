@@ -1,0 +1,18 @@
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\bin\Debug\admin.vb.exe
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\bin\Debug\admin.vb.pdb
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\bin\Debug\admin.vb.xml
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.login.resources
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.Resources.resources
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.exe
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.xml
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.pdb
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.vbproj.ResolveComReference.cache
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.admin.resources
+C:\Users\SAM\AppData\Local\Temporary Projects\admin.vb\obj\x86\Debug\admin.vb.bahan.resources
+C:\Users\SAM\documents\visual studio 2010\Projects\admin.vb\admin.vb\obj\x86\Debug\admin.vb.vbproj.ResolveComReference.cache
+C:\Users\SAM\documents\visual studio 2010\Projects\admin.vb\admin.vb\obj\x86\Debug\admin.vb.exe
+C:\Users\SAM\documents\visual studio 2010\Projects\admin.vb\admin.vb\obj\x86\Debug\admin.vb.xml
+C:\Users\SAM\documents\visual studio 2010\Projects\admin.vb\admin.vb\obj\x86\Debug\admin.vb.pdb
